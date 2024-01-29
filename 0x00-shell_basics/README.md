@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-hello
+# 0x00-shell_basics
